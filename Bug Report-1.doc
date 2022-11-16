@@ -1,0 +1,258 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1250"/>
+	<title>[#HW4-9] [Mobile] Search results are displayed incorrectly in the drop-down menu.</title>
+	<meta name="generator" content="LibreOffice 6.4.5.2 (Windows)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2022-11-16T13:42:21.715000000"/>
+	<style type="text/css">
+		@page { size: 21cm 29.7cm; margin-left: 2cm; margin-right: 1cm; margin-top: 1cm; margin-bottom: 1cm }
+		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
+		td p { background: transparent }
+		h3 { margin-top: 0.25cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
+		h3.western { font-family: "Liberation Serif", serif; font-size: 14pt; font-weight: bold }
+		h3.cjk { font-family: "NSimSun"; font-size: 14pt; font-weight: bold }
+		h3.ctl { font-family: "Arial"; font-size: 14pt; font-weight: bold }
+		a:link { color: #000080; so-language: zxx; text-decoration: underline }
+		a:visited { color: #800000; so-language: zxx; text-decoration: underline }
+	</style>
+</head>
+<body lang="pl-PL" link="#000080" vlink="#800000" dir="ltr">
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="background: #ffffff; page-break-before: always">
+	<tr>
+		<td colspan="2" width="100%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><h3 class="western">
+			[HW4-9]&nbsp;<a href="https://hw4skillup.atlassian.net/browse/HW4-9">[Mobile]
+			Search results are displayed incorrectly in the drop-down menu.</a>
+			&#1057;&#1086;&#1079;&#1076;&#1072;&#1085;&#1086;: 07/&#1089;&#1077;&#1085;/22
+			&nbsp;&#1054;&#1073;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#1086;:
+			07/&#1089;&#1077;&#1085;/22 
+			</h3>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" style="border: none; padding: 0cm"><p><b>&#1057;&#1090;&#1072;&#1090;&#1091;&#1089;:</b></p>
+		</td>
+		<td width="80%" style="border: none; padding: 0cm"><p>&#1050;
+			&#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085;&#1080;&#1102;</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" style="border: none; padding: 0cm"><p><b>&#1055;&#1088;&#1086;&#1077;&#1082;&#1090;:</b></p>
+		</td>
+		<td width="80%" style="border: none; padding: 0cm"><p><a href="https://hw4skillup.atlassian.net/secure/BrowseProject.jspa?id=10000">HW4</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm"><p><b>&#1050;&#1086;&#1084;&#1087;&#1086;&#1085;&#1077;&#1085;&#1090;&#1099;:</b></p>
+		</td>
+		<td style="border: none; padding: 0cm"><p>&#1053;&#1077;&#1090; 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm"><p><b>&#1042;&#1077;&#1088;&#1089;&#1080;&#1080;
+			Affects:</b></p>
+		</td>
+		<td style="border: none; padding: 0cm"><p>&#1053;&#1077;&#1090; 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none; padding: 0cm"><p><b>&#1042;&#1077;&#1088;&#1089;&#1080;&#1080;
+			&#1080;&#1089;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103;:</b></p>
+		</td>
+		<td style="border: none; padding: 0cm"><p>&#1053;&#1077;&#1090; 
+			</p>
+		</td>
+	</tr>
+</table>
+<p style="margin-bottom: 0cm"><br/>
+
+</p>
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="background: #ffffff">
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1058;&#1080;&#1087;:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			&#1041;&#1072;&#1075; 
+			</p>
+		</td>
+		<td bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1055;&#1088;&#1080;&#1086;&#1088;&#1080;&#1090;&#1077;&#1090;:</b>
+						</p>
+		</td>
+		<td valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			Medium 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1040;&#1074;&#1090;&#1086;&#1088;:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			<a href="https://hw4skillup.atlassian.net/secure/ViewProfile.jspa?accountId=6312348bd8850343ef58ddf7">K</a>ateryna</p>
+		</td>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1048;&#1089;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;:</b>
+						</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			&#1053;&#1077; &#1085;&#1072;&#1079;&#1085;&#1072;&#1095;&#1077;&#1085;&#1086;
+						</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1056;&#1077;&#1096;&#1077;&#1085;&#1080;&#1077;:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			&#1053;&#1077;&#1090; &#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1103;
+						</p>
+		</td>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1043;&#1086;&#1083;&#1086;&#1089;&#1072;:</b> 
+			</p>
+		</td>
+		<td width="30%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			0 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p><a name="labels-10008-value"></a>
+			<b>&#1052;&#1077;&#1090;&#1082;&#1080;:</b> 
+			</p>
+		</td>
+		<td colspan="3" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			&#1053;&#1077;&#1090; 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1054;&#1094;&#1077;&#1085;&#1082;&#1072; &#1086;&#1089;&#1090;&#1072;&#1090;&#1082;&#1072;:</b></p>
+		</td>
+		<td colspan="3" width="80%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			&#1053;&#1077; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;
+						</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1047;&#1072;&#1090;&#1088;&#1072;&#1095;&#1077;&#1085;&#1085;&#1086;&#1077;
+			&#1074;&#1088;&#1077;&#1084;&#1103;:</b></p>
+		</td>
+		<td colspan="3" width="80%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			&#1053;&#1077; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;
+						</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1048;&#1089;&#1093;&#1086;&#1076;&#1085;&#1072;&#1103;
+			&#1086;&#1094;&#1077;&#1085;&#1082;&#1072;:</b></p>
+		</td>
+		<td colspan="3" width="80%" valign="top" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			&#1053;&#1077; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;
+						</p>
+		</td>
+	</tr>
+</table>
+<p style="margin-bottom: 0cm"><br/>
+
+</p>
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="background: #ffffff">
+	<tr valign="top">
+		<td width="20%" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p>
+			<b>&#1042;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1103;:</b> 
+			</p>
+		</td>
+		<td bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			<img src="https://hw4skillup.atlassian.net/images/icons/attach/image.gif" name="Obraz1" alt="JPEG файл" align="bottom" width="16" height="16" border="0"/>
+
+			Bug-2.jpg &nbsp;&nbsp;&nbsp; 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p><a name="customfield_10019-10008-value"></a>
+			<b>Rank:</b></p>
+		</td>
+		<td width="80%" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"><p>
+			0|i0001j: 
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="20%" valign="top" bgcolor="#f0f0f0" style="background: #f0f0f0" style="border: none; padding: 0cm"><p><a name="customfield_10020-10008-value"></a>
+			<b>Sprint:</b></p>
+		</td>
+		<td width="80%" bgcolor="#ffffff" style="background: #ffffff" style="border: none; padding: 0cm"></td>
+	</tr>
+</table>
+<p style="margin-bottom: 0cm"><br/>
+
+</p>
+<center>
+	<table width="100%" cellpadding="2" cellspacing="0">
+		<tr>
+			<td width="1%" bgcolor="#bbbbbb" style="background: #bbbbbb" style="border: none; padding: 0cm"><p align="center">
+				&nbsp;<font color="#ffffff"><b>&#1054;&#1087;&#1080;&#1089;&#1072;&#1085;&#1080;&#1077;</b></font>&nbsp;
+								</p>
+			</td>
+			<td style="border: none; padding: 0cm"><p>&nbsp;</p>
+			</td>
+		</tr>
+	</table>
+</center>
+<table width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+		<td style="border: 1px solid #cccccc; padding: 0.05cm"><p style="margin-bottom: 0.5cm">
+			<b>Precondition:</b></p>
+			<ol>
+				<li><p>Install app &quot;Meest&quot; and authorize 
+				</p>
+				<li><p style="margin-bottom: 0.5cm">Set language of application -
+				Russian 
+				</p>
+			</ol>
+			<p style="margin-bottom: 0.5cm"><b>Steps to reproduce:</b></p>
+			<ol>
+				<li><p>Go to the &quot;&#1054;&#1090;&#1076;&#1077;&#1083;&#1077;&#1085;&#1080;&#1103;&quot;
+				section 
+				</p>
+				<li><p>Enter the name of the city in the search field (e.g.
+				<b>&#1044;&#1085;&#1077;&#1087;&#1088;</b>) 
+				</p>
+				<li><p style="margin-bottom: 0.5cm">Pay attention to the text in
+				the drop-down menu 
+				</p>
+			</ol>
+			<p style="margin-bottom: 0.5cm"><b>Actual result:</b></p>
+			<p style="margin-bottom: 0.5cm">Search results are displayed
+			incorrectly in the drop-down menu. The text contains names of two
+			cities at the same address in Russian and Ukrainian languages,
+			names of cities contain spelling errors.</p>
+			<p style="margin-bottom: 0.5cm"><b>Expected result:</b></p>
+			<p style="margin-bottom: 0.5cm">Search results are displayed
+			correctly on Russian language in the drop-down menu.</p>
+			<p style="margin-bottom: 0.5cm"><b>Environment:</b> iPhone 11 OS
+			iOS version 15.6.1</p>
+			<p><br/>
+
+			</p>
+		</td>
+	</tr>
+</table>
+<p><br/>
+<br/>
+
+</p>
+</body>
+</html>
